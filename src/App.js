@@ -1,5 +1,6 @@
-import React from 'react'
-import Alert from "./Alert"
+import React from 'react';
+import Alert from "./Alert";
+
 export default function App() {
     return (
         <div>
